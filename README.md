@@ -1,5 +1,8 @@
 # Modelagem Estatística em Indicadores Socioeconômicos
 
+![Project Status: Completed](https://img.shields.io/badge/Status-Concluído-brightgreen)
+
+
 ## Introdução
 Este projeto analisa a relação entre indicadores socioeconômicos e a expectativa de vida em diversos países, utilizando técnicas avançadas de regressão estatística. O objetivo é identificar fatores chave que influenciam significativamente a saúde pública e contribuir para políticas de saúde e bem-estar mais eficazes.
 
