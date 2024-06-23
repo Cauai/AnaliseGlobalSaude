@@ -1,2 +1,4 @@
-# AnaliseGlobalSaude
-Análise de como indicadores socioeconômicos afetam a expectativa de vida usando regressão estatística. Ideal para quem se interessa por econometria e saúde pública.
+# Modelagem Estatística em Indicadores Socioeconômicos
+
+## Descrição
+Este projeto aborda a análise de diversos indicadores socioeconômicos e seu impacto na expectativa de vida utilizando técnicas estatísticas de regressão. O objetivo é identificar fatores chave que afetam a saúde e o bem-estar em diferentes países.
